@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.5.2"
+    "ethereumjs-testrpc": "^6.0.3",
+    "ethereumjs-tx": "^2.1.2",
+    "tronweb": "^4.0.0",
+    "web3": "^1.5.2",
+    "web3-utils": "^1.5.2"
   }
 }
